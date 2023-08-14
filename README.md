@@ -1,4 +1,5 @@
 # Gioco-delle-coppie-di-carte
+progetto sviluppato per l'esame di programmazione 1. Università degli studi di Napoli Parthenope
 1. Gioco delle coppie di carte
 Sviluppare un algoritmo per la simulazione del gioco delle coppie di carte tra due
 giocatori identificati dai loro nomi. Inizialmente “mischiare” un mazzo di carte
